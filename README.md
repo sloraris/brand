@@ -8,8 +8,16 @@
 ## Works with:
 - [Sloraris.dev](sloraris.dev)
 - [Sloraris Archive](archive.sloraris.dev)
-- [Hyper Terminal](https://hyper.is/themes)
-- [Warp Terminal](https://docs.warp.dev/appearance/custom-themes)
-- [Visual Studio Code](https://code.visualstudio.com/docs/getstarted/themes)
+- [Hyper Terminal](https://hyper.is/)
+- [Warp Terminal](https://docs.warp.dev/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Chromium based browsers](https://chromewebstore.google.com/category/themes)
+- [Obsidian](https://obsidian.md/)
+
+## Tools/docs for development:
+- [Terminal Sexy](https://terminal.sexy/?)
+- [Hyper Terminal themes](https://hyper.is/themes)
+- [Warp Terminal theme docs](https://docs.warp.dev/appearance/custom-themes)
+- [Visual Studio Code theme docs](https://code.visualstudio.com/docs/getstarted/themes)
 - [Chromium based browsers](https://www.themebeta.com/chrome-theme-creator-online.html)
-- [Obsidian](https://github.com/AnubisNekhet/AnuPpuccin?tab=readme-ov-file)
+- [Obsidian AnuPpuccin them docs](https://github.com/AnubisNekhet/AnuPpuccin?tab=readme-ov-file)
