@@ -24,7 +24,32 @@
 
 ## Requirements:
 ### Websites
-- Main body background, Header/Footer background, Code Block background
-- Accent colors, accent colors on hover
+Background colors
+- Main body
+- Header/Footer
+- Code Block
+
+Accent colors
+- Normal
+- On hover
 ### Terminal and Code editors
-- Base 16 color palette
+#### Base 16 color palette (as seen on [Terminal Sexy](https://terminal.sexy/?))
+Base colors (typically darker shades):
+- 0: Default Background
+- 1: Default Foreground (often also the default text color)
+- 2: Cursor Text
+- 3: Cursor
+- 4: Color for 'blue' (often also used for syntax highlighting)
+- 5: Color for 'magenta' (often also used for syntax highlighting)
+- 6: Color for 'cyan' (often also used for syntax highlighting)
+- 7: Color for 'white' (used for brighter text)
+
+Bright colors (typically lighter or more vibrant shades):
+- 8: Bright Black (often a dark gray, used as a subdued text color)
+- 9: Bright Red (often used for warnings and errors)
+- 10: Bright Green (often used for strings in code)
+- 11: Bright Yellow (often used for different types of highlights)
+- 12: Bright Blue (often used for keywords in code)
+- 13: Bright Magenta (often used for commands and parameters)
+- 14: Bright Cyan (often used for function calls)
+- 15: Bright White (the brightest color, often used for bold text)
