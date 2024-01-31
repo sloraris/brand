@@ -21,3 +21,10 @@
 - [Visual Studio Code theme docs](https://code.visualstudio.com/docs/getstarted/themes)
 - [Chromium based browsers](https://www.themebeta.com/chrome-theme-creator-online.html)
 - [Obsidian AnuPpuccin them docs](https://github.com/AnubisNekhet/AnuPpuccin?tab=readme-ov-file)
+
+## Requirements:
+### Websites
+- Main body background, Header/Footer background, Code Block background
+- Accent colors, accent colors on hover
+### Terminal and Code editors
+- Base 16 color palette
