@@ -32,6 +32,7 @@ Background colors
 Accent colors
 - Normal
 - On hover
+
 ### Terminal and Code editors
 #### Base 16 color palette (as seen on [Terminal Sexy](https://terminal.sexy/?))
 Base colors (typically darker shades):
