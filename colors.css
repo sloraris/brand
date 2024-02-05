@@ -1,5 +1,5 @@
 
-:root {
+:github {
     --bg-bg: #242832
     --fg-bg: #2C354A
     --primary: #7B68EE
@@ -8,3 +8,15 @@
     --eyecatch: #FF9558
     --text: #FFFFF0
 }
+
+:rainy {
+    --bg-bg: #012A3C
+    --fg-bg: #02394B
+    --primary: #8287CF
+    --secondary: #F41DC8
+    --tertiary: #FE6067
+    --blue: #49BCD3
+    --green: #E2FF65
+    --ivory: #FFFFF0
+}
+
