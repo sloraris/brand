@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #e7eff9 - rgb(231, 239, 249) - hsl(213, 60%, 94%)
+    Background: #090f16 - rgb(9, 15, 22) - hsl(212, 42%, 6%)
+    Primary: #6fa5fb - rgb(111, 165, 251) - hsl(217, 95%, 71%)
+    Secondary: #fb50fb - rgb(251, 80, 251) - hsl(300, 96%, 65%)
+    Accent: #00ffff - rgb(0, 255, 255) - hsl(180, 100%, 50%)
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=e7eff9-090f16-6fa5fb-fb50fb-00ffff&fonts=Protest%20Strike-Ubuntu
+
+Thanks for using RealtimeColors.com!
