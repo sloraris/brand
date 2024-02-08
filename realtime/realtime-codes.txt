@@ -6,6 +6,6 @@ Your selected colors:
     Secondary: #fb50fb - rgb(251, 80, 251) - hsl(300, 96%, 65%)
     Accent: #00ffff - rgb(0, 255, 255) - hsl(180, 100%, 50%)
 
-Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=e7eff9-090f16-6fa5fb-fb50fb-00ffff&fonts=Protest%20Strike-Ubuntu
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=e7eff9-090f16-6fa5fb-fb50fb-00ffff&fonts=Exo%202-Ubuntu
 
 Thanks for using RealtimeColors.com!
