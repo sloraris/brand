@@ -20,7 +20,7 @@
     --ivory: #FFFFF0
 }
 
-// purple mint ?
+/* purple mint ? */
 :realtime1 {
     --text: #DEEDFA
     --bg: #070210
@@ -29,7 +29,7 @@
     --accent: #6E39E3
 }
 
-// purple red ?
+/* purple red ? */
 :realtime2 {
     --text: #E9E8EE
     --bg: #0A0619
@@ -38,7 +38,7 @@
     --accent: #FF175D
 }
 
-// purple reddish !
+/* purple reddish ! */
 :realtime2 {
     --text: #E9E8EE
     --bg: #0C111E
