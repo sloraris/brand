@@ -20,3 +20,29 @@
     --ivory: #FFFFF0
 }
 
+// purple mint ?
+:realtime1 {
+    --text: #DEEDFA
+    --bg: #070210
+    --primary: #86C1EE
+    --secondary: #231489
+    --accent: #6E39E3
+}
+
+// purple red ?
+:realtime2 {
+    --text: #E9E8EE
+    --bg: #0A0619
+    --primary: #A688DD
+    --secondary: #3D1886
+    --accent: #FF175D
+}
+
+// purple reddish !
+:realtime2 {
+    --text: #E9E8EE
+    --bg: #0C111E
+    --primary: #A28BF4
+    --secondary: #322575
+    --accent: #F76C91
+}
