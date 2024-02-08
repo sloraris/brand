@@ -9,40 +9,9 @@
     --text: #FFFFF0
 }
 
-:rainy {
-    --bg-bg: #012A3C
-    --fg-bg: #02394B
-    --primary: #8287CF
-    --secondary: #F41DC8
-    --tertiary: #FE6067
-    --blue: #49BCD3
-    --green: #E2FF65
-    --ivory: #FFFFF0
-}
-
-/* purple mint ? */
-:realtime1 {
-    --text: #DEEDFA
-    --bg: #070210
-    --primary: #86C1EE
-    --secondary: #231489
-    --accent: #6E39E3
-}
-
-/* purple red ? */
-:realtime2 {
-    --text: #E9E8EE
-    --bg: #0A0619
-    --primary: #A688DD
-    --secondary: #3D1886
-    --accent: #FF175D
-}
-
-/* purple reddish ! */
-:realtime2 {
-    --text: #E9E8EE
-    --bg: #0C111E
-    --primary: #A28BF4
-    --secondary: #322575
-    --accent: #F76C91
-}
+/* 
+Neon city (blue): https://www.realtimecolors.com/?colors=e7eff9-090f16-6fa5fb-fb50fb-00ffff&fonts=Exo%202-Ubuntu
+Neon city (purple): https://www.realtimecolors.com/?colors=e7eff9-090f16-6f0fc2-fb50fb-00ffff&fonts=Exo%202-Ubuntu
+Stellar: https://www.realtimecolors.com/?colors=e7eff9-090f16-6f0fc2-181e53-fc8236&fonts=Exo%202-Ubuntu
+Sweet dark: https://www.realtimecolors.com/?colors=e7eff9-090f16-6f0fc2-181e53-f86de1&fonts=Exo%202-Ubuntu
+*/
