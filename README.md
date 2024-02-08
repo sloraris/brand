@@ -4,6 +4,7 @@
 - [Baby Jellyfish by Piakaole](https://www.redbubble.com/i/mouse-pad/Baby-jellyfish-by-pikaole/56972065.GAP22)
 - [Black Hole by Kurzgesagt](https://archive.org/details/black-hole-by-kurzgesagt-2-3840x2160)
 - [Space Cadet by Byrotek](https://www.deviantart.com/byrotek/art/Space-Cadet-778344860)
+- [Neon City Rain by mandoadventures](https://www.deviantart.com/mandoadventures/art/Neon-City-Rain-940552633)
 
 ## Works with:
 - [Sloraris.dev](sloraris.dev)
