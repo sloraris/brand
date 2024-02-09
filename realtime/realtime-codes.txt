@@ -1,11 +1,14 @@
-Your selected colors:
+--linearPrimarySecondary: linear-gradient(#6f0fc2, #181e53);
+--linearPrimaryAccent: linear-gradient(#6f0fc2, #fc8236);
+--linearSecondaryAccent: linear-gradient(#181e53, #fc8236);
+--radialPrimarySecondary: radial-gradient(#6f0fc2, #181e53);
+--radialPrimaryAccent: radial-gradient(#6f0fc2, #fc8236);
+--radialSecondaryAccent: radial-gradient(#181e53, #fc8236);
 
-    Text: #e7eff9 - rgb(231, 239, 249) - hsl(213, 60%, 94%)
-    Background: #090f16 - rgb(9, 15, 22) - hsl(212, 42%, 6%)
-    Primary: #6fa5fb - rgb(111, 165, 251) - hsl(217, 95%, 71%)
-    Secondary: #fb50fb - rgb(251, 80, 251) - hsl(300, 96%, 65%)
-    Accent: #00ffff - rgb(0, 255, 255) - hsl(180, 100%, 50%)
+--text: #e7eff9;
+--background: #090f16;
+--primary: #6f0fc2;
+--secondary: #181e53;
+--accent: #fc8236;
 
-Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=e7eff9-090f16-6fa5fb-fb50fb-00ffff&fonts=Exo%202-Ubuntu
-
-Thanks for using RealtimeColors.com!
+https://www.realtimecolors.com/?colors=e7eff9-090f16-6f0fc2-181e53-fc8236&fonts=Exo%202-Ubuntu
