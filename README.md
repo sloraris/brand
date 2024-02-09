@@ -21,6 +21,8 @@
 - [Juxtopposed Fortnite Buttons](https://codepen.io/Juxtopposed/pen/yLZmVrW)
 - [Juxtopposed Nuxt Buttons](https://codepen.io/kalisnetwork/pen/ZEmNZzm)
 - [Raycast cards](https://www.raycast.com/)
+- [StackSorted](https://stacksorted.com)
+- [Realtime Colors](https://realtimecolors.com)
 
 ## Works with:
 - [Sloraris.dev](sloraris.dev)
